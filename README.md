@@ -1,5 +1,8 @@
 # CareBot – Your Instant Health Assistant
 
+## 🔗 Live Demo
+🌐 Website: https://nandinigorige45.wixsite.com/carebot
+
 ## 🌐 Project Overview
 CareBot is a web-based smart health chatbot designed to provide instant guidance for common health symptoms through an interactive chatbot interface.
 
